@@ -38,7 +38,7 @@
 <a href="https://www.youtube.com/channel/UCiUoNW8-BTepuh3u1r65_bw" target="_blank"><img alt="Haru-YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 <a href="https://www.twitch.tv/haruzinsz" target="_blank"><img alt="Haru-Twitch" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
 <a href="https://ko-fi.com/haruzinho" target="_blank"><img alt="Haru-Kofi" src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"></a>
-<a href="#"><img alt="Haru-OS" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
+<a href="#"><img alt="Haru-OS" src="https://img.shields.io/badge/Windows 11-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
 <a href="#"><img alt="Haru-GPU" src="https://img.shields.io/badge/NVIDIA-GeForce RTX 2070 Super-76B900?style=for-the-badge&logo=nvidia&logoColor=white"></a>
 <a href="#"><img alt="Haru-CPU" src="https://img.shields.io/badge/AMD-Ryzen_5_3600-ED1C24?style=for-the-badge&logo=amd&logoColor=white"></a>
     
