@@ -14,7 +14,7 @@ jobs:
       - uses: Platane/snk@master
         id: snake-gif
         with:
-          github_user_name: haruzinh0
+          github_user_name: AqueleHaru
           svg_out_path: assets/github-contribution-grid-snake.svg
 
       - uses: crazy-max/ghaction-github-pages@v2.1.3
