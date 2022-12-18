@@ -4,11 +4,11 @@
 - 🔭 I’m currently working on [Tunefy](https://github.com/tunefy) as **DEV** and **CEO**
 
 <div align="center">
-    <a href="https://github.com/aqueleharu">
+    <a href="https://github.com/AqueleHaru">
         <img height="180em"
-            src="https://github-readme-stats.vercel.app/api?username=aqueleharu&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
+            src="https://github-readme-stats.vercel.app/api?username=AqueleHaru&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
         <img height="180em"
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqueleharu&layout=compact&langs_count=7&theme=github_dark" />
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=AqueleHaru&layout=compact&langs_count=7&theme=github_dark" />
 </div>
 
 # Languages and Tools
@@ -36,11 +36,11 @@
 # Infos
 <div>
 <a href="https://www.youtube.com/channel/UCiUoNW8-BTepuh3u1r65_bw" target="_blank"><img alt="Haru-YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-<a href="https://www.twitch.tv/yungharu_" target="_blank"><img alt="Haru-Twitch" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
+<a href="https://www.twitch.tv/aqueleharu" target="_blank"><img alt="Haru-Twitch" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
 <a href="https://ko-fi.com/haruzinho" target="_blank"><img alt="Haru-Kofi" src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"></a>
 <a href="#"><img alt="Haru-OS" src="https://img.shields.io/badge/Windows 11-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
 <a href="#"><img alt="Haru-GPU" src="https://img.shields.io/badge/NVIDIA-GeForce RTX 2070 Super-76B900?style=for-the-badge&logo=nvidia&logoColor=white"></a>
 <a href="#"><img alt="Haru-CPU" src="https://img.shields.io/badge/AMD-Ryzen_5_3600-ED1C24?style=for-the-badge&logo=amd&logoColor=white"></a>
     
-![Snake animation](https://github.com/aqueleharu/aqueleharu/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/AqueleHaru/AqueleHaru/blob/output/github-contribution-grid-snake.svg)
 </div>
